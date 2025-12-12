@@ -1,0 +1,13 @@
+Month,Product,Quantity_Sold,Sales,Expenses,Profit
+Jan,Laptops,45,12000,7000,5000
+Feb,Laptops,55,15000,8000,7000
+Mar,Mobile Phones,120,17000,9000,8000
+Apr,Mobile Phones,110,16000,8500,7500
+May,Tablets,70,18000,9500,8500
+Jun,Tablets,85,22000,11000,11000
+Jul,Accessories,150,21000,10500,10500
+Aug,Accessories,160,25000,12000,13000
+Sep,Laptops,60,23000,11500,11500
+Oct,Mobile Phones,130,24000,11800,12200
+Nov,Tablets,90,26000,12500,13500
+Dec,Accessories,180,30000,14000,16000
